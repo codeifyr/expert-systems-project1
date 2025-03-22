@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scikit-fuzzy
+matplotlib
+seaborn
+plotly
+shap
+joblib
+streamlit
+flask
+networkx
